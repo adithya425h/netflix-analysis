@@ -1,55 +1,58 @@
-<<<<<<< HEAD
-# 📺 Netflix Data Analysis Project
+# 🎬 Netflix Data Analysis Project
 
-This project explores the Netflix dataset to understand the types of content Netflix offers, release trends over the years, most popular genres, and top directors and actors.
+This project analyzes the Netflix dataset using Python to explore trends in Netflix’s content library such as:
+- Movie vs. TV show distribution
+- Release trends over time
+- Top genres, countries, and key contributors
 
 ---
 
-## 🔍 Project Objectives
+## 📊 Project Objectives
 
-- Understand the distribution between Movies and TV Shows
+- Understand how Netflix's library has changed over the years
+- Compare the number of Movies vs. TV Shows
 - Identify top contributing countries
-- Track how Netflix's content library has grown over the years
-- Find the most common genres, directors, and actors
-- Learn basic data cleaning, visualization, and filtering techniques
+- Find the most common genres
+- Explore top directors and actors
+- Perform basic data cleaning and visualizations using Python libraries
 
 ---
 
-## 📁 Dataset
+## 📁 Files Included
 
-- **Source**: [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- **File used**: `NetflixDataset.csv`
+| File Name                | Description                          |
+|--------------------------|--------------------------------------|
+| `NetflixDataset.csv`     | Raw dataset downloaded from Kaggle   |
+| `Netflix_Analysis.ipynb` | Jupyter Notebook with full analysis  |
+| `README.md`              | Project overview (this file)         |
 
 ---
 
-## 🛠️ Tools & Libraries
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
-- Matplotlib
-- Seaborn
+- Matplotlib / Seaborn
 - Jupyter Notebook
 
 ---
 
-## 📊 Key Findings
+## 📌 Key Insights
 
-- 📌 **Movies** make up the majority of Netflix content.
-- 🌍 **United States** is the top-producing country on Netflix.
-- 📈 Number of releases **peaked around 2018–2020**.
-- 🎭 **Drama** is the most common genre.
-- 🎬 Top directors include **Raúl Campos**, **Marcus Raboy**, and others.
-- ⭐ **Anupam Kher**, **Takashi Miike**, and **David Attenborough** appear frequently in the cast lists.
+- 📈 Netflix added the most content in 2019–2020
+- 🎥 Movies are more frequent than TV Shows
+- 🌎 USA, India, and the UK are top content producers
+- 🎭 Drama is the most common genre
 
 ---
 
-## 🔧 How to Run
+## 📬 Contact
 
-1. Clone this repo or download the notebook and dataset.
-2. Install required packages:
-   ```bash
-   pip install pandas matplotlib seaborn
-=======
-# netflix-analysis
-data analysis on Netflix content using Python
->>>>>>> 902809da8f5abf44a999b39b1e46ba96f0c096ec
+Created by **Adithya Reddy Banda**  
+📧 [Email Me](mailto:adithya425h@gmail.com)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/adithya425h)
+
+---
+
+> ⭐ Feel free to fork, star, or suggest improvements!
+
